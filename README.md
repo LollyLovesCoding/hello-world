@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi! I'm Lilyana and this branch is created to help me get to know more about GitHub.
